@@ -1,6 +1,7 @@
    .main {
         width: 1140px;
         margin: auto;
+        font-family: 'Gilroy';
     }
     .header {
         width: 1140px;
@@ -33,13 +34,9 @@
         margin: auto;
         text-align: center;
         line-height: 320px;
-
-
-    }
-
-    .mainNumb {
-        font-size: 200px;
+        font-size: 100px;
         color: #F27C0F;
+
     }
 
     .btns {
